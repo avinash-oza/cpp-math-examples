@@ -1,6 +1,6 @@
 language: cpp
 install: make
-script: "cd cpp/test && make"
+script: "./travis.sh"
 # Handle git submodules yourself
 git:
     submodules: false
