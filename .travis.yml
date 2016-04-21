@@ -1,6 +1,6 @@
 language: cpp
 install: make
-script: "cd cpp/test && make'"
+script: "cd cpp/test && make"
 # Handle git submodules yourself
 git:
     submodules: false
