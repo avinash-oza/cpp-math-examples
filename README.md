@@ -1,18 +1,7 @@
-[![Build Status](https://travis-ci.org/avinash-oza/math-examples.svg?branch=master)](https://travis-ci.org/avinash-oza/math-examples)
+[![Build Status](https://travis-ci.org/avinash-oza/cpp-math-examples.svg?branch=master)](https://travis-ci.org/avinash-oza/math-examples)
 math-examples
 =============
 
-Contains numerical/mathematical examples using various languages
+Contains numerical/mathematical examples using c++. Split out from the math-examples repo
 
-##Current implementations
-
-<table>
-    <tr>
-      <td>Algorithm</td>
-      <td>File name</td>
-    </tr>
-    <tr>
-        <td>Simpson's Rule</td>
-        <td>simpson_rule.py</td>
-    </tr>
-</table>
+##Current implementations (TBD)
